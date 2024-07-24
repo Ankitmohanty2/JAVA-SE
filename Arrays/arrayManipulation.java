@@ -4,7 +4,7 @@ import java.util.List;
 public class ArrayManipulation {
 
     public static void main(String[] args) {
-        // Initialize an array with specified size
+        
         int[] array1 = new int[5];
         Arrays.fill(array1, 0); // Fill with zeros
 
