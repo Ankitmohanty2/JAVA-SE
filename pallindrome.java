@@ -2,10 +2,10 @@ public class Palindrome {
     public static void main(String[] args) {
         int num = 12321; 
         int reversedNum = 0;
-        int originalNum = num; // Store the original number for comparison later
+        int originalNum = num; 
 
         while (num != 0) {
-            int digit = num % 10; // Extract the last digit
+            int digit = num % 10; 
             reversedNum = reversedNum * 10 + digit; // Build the reversed number
             num /= 10; // Remove the last digit from the original number
         }
