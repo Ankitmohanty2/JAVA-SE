@@ -1,7 +1,7 @@
 public class Palindrome {
     public static void main(String[] args) {
-        int num = 12321; // The number to check for palindrome
-        int reversedNum = 0; // Variable to store the reversed number
+        int num = 12321; 
+        int reversedNum = 0;
         int originalNum = num; // Store the original number for comparison later
 
         while (num != 0) {
