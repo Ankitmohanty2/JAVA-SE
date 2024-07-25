@@ -13,7 +13,7 @@ public class Palindrome {
         if (originalNum == reversedNum) {
             System.out.println(originalNum + " is a palindrome number."); 
         } else {
-            System.out.println(originalNum + " is not a palindrome number."); // Otherwise, it's not a palindrome
+            System.out.println(originalNum + " is not a palindrome number.");
         }
     }
 }
