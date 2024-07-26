@@ -13,7 +13,7 @@ public class BinarySearch {
                 return mid;
             }
 
-            // If key greater, ignore left half
+            
             if (arr[mid] < key) {
                 left = mid + 1;
             } 
