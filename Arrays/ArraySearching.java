@@ -22,7 +22,7 @@ public class BinarySearch {
                 right = mid - 1;
             }
         }
-        return -1; // Return -1 if the element is not found
+        return -1; 
     }
 
     public static void main(String[] args) {
