@@ -17,7 +17,7 @@ public class BinarySearch {
             if (arr[mid] < key) {
                 left = mid + 1;
             } 
-            // If key is smaller, ignore right half
+           
             else {
                 right = mid - 1;
             }
