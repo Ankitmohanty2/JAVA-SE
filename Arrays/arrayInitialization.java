@@ -3,7 +3,7 @@ public class ArrayInitialization {
         // Method 1: Declaration and Initialization
         int[] arr1 = new int[5];
 
-        // Method 2: Declaration and Initialization in One Line
+        
         int[] arr2 = {1, 2, 3, 4, 5};
 
         // Method 3: Using new Keyword with Values
