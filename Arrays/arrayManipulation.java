@@ -11,7 +11,7 @@ public class ArrayManipulation {
    
         int[] array2 = {1, 2, 3, 4, 5};
 
-        // Accessing array elements
+     
         System.out.println("First element: " + array2[0]);
         System.out.println("Third element: " + array2[2]);
 
