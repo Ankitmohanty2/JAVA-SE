@@ -8,7 +8,7 @@ public class ArrayManipulation {
         int[] array1 = new int[5];
         Arrays.fill(array1, 0);
 
-        // Initialize an array with specified values
+   
         int[] array2 = {1, 2, 3, 4, 5};
 
         // Accessing array elements
