@@ -15,7 +15,7 @@ public class ArrayManipulation {
         System.out.println("First element: " + array2[0]);
         System.out.println("Third element: " + array2[2]);
 
-        // Modifying array elements
+       
         array2[1] = 10;
         System.out.println("Modified second element: " + array2[1]);
 
