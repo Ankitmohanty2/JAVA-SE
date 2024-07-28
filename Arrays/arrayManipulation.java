@@ -25,7 +25,7 @@ public class ArrayManipulation {
             System.out.println(array2[i]);
         }
 
-        // Iterating through an array using a for-each loop
+      
         System.out.println("Array elements using for-each loop:");
         for (int element : array2) {
             System.out.println(element);
