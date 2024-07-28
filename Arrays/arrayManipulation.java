@@ -6,7 +6,7 @@ public class ArrayManipulation {
     public static void main(String[] args) {
         
         int[] array1 = new int[5];
-        Arrays.fill(array1, 0); // Fill with zeros
+        Arrays.fill(array1, 0);
 
         // Initialize an array with specified values
         int[] array2 = {1, 2, 3, 4, 5};
