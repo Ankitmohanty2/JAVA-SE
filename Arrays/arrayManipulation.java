@@ -19,7 +19,7 @@ public class ArrayManipulation {
         array2[1] = 10;
         System.out.println("Modified second element: " + array2[1]);
 
-        // Iterating through an array using a for loop
+      
         System.out.println("Array elements using for loop:");
         for (int i = 0; i < array2.length; i++) {
             System.out.println(array2[i]);
