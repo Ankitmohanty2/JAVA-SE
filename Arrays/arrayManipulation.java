@@ -49,7 +49,7 @@ public class ArrayManipulation {
         }
         System.out.println("Minimum value: " + min);
 
-        // Calculating the sum of all elements
+       
         int sum = 0;
         for (int i = 0; i < array2.length; i++) {
             sum += array2[i];
