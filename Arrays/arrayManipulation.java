@@ -40,7 +40,7 @@ public class ArrayManipulation {
         }
         System.out.println("Maximum value: " + max);
 
-        // Finding the minimum element in an array
+       
         int min = array2[0];
         for (int i = 1; i < array2.length; i++) {
             if (array2[i] < min) {
