@@ -22,7 +22,7 @@ public class ArrayMerging {
 
         int i = 0, j = 0, k = 0;
 
-        // Merge the arrays
+     
         while (i < length1 && j < length2) {
             if (array1[i] < array2[j]) {
                 mergedArray[k++] = array1[i++];
