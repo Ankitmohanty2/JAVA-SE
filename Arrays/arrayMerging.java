@@ -14,7 +14,7 @@ public class ArrayMerging {
         }
     }
 
-    // Method to merge two arrays
+ 
     public static int[] mergeArrays(int[] array1, int[] array2) {
         int length1 = array1.length;
         int length2 = array2.length;
