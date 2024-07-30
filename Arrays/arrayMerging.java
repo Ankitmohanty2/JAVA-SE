@@ -7,7 +7,7 @@ public class ArrayMerging {
       
         int[] mergedArray = mergeArrays(array1, array2);
 
-        // Print the merged array
+      
         System.out.print("Merged Array: ");
         for (int num : mergedArray) {
             System.out.print(num + " ");
