@@ -4,7 +4,7 @@ public class ArrayMerging {
         int[] array1 = {1, 3, 5, 7};
         int[] array2 = {2, 4, 6, 8};
 
-        // Merge the arrays
+      
         int[] mergedArray = mergeArrays(array1, array2);
 
         // Print the merged array
