@@ -1,6 +1,6 @@
 public class ArrayMerging {
     public static void main(String[] args) {
-        // Example arrays to merge
+        
         int[] array1 = {1, 3, 5, 7};
         int[] array2 = {2, 4, 6, 8};
 
