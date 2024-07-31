@@ -28,7 +28,7 @@ public class Main {
             new Person("Charlie", 35)
         };
 
-        // Sorting the array of Person objects by age
+      
         Arrays.sort(people);
 
         // Printing the sorted array
