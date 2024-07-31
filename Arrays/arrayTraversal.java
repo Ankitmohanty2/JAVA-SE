@@ -11,7 +11,7 @@ public class Solution {
        
         List<Integer> result = new ArrayList<>();
         
-        // Iterate through nums1 and populate the map with the count of each number
+      
         for (int num : nums1) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
