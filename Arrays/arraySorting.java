@@ -31,7 +31,7 @@ public class Main {
       
         Arrays.sort(people);
 
-        // Printing the sorted array
+       
         System.out.println("Sorted array of people: " + Arrays.toString(people));
     }
 }
