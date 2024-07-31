@@ -6,7 +6,7 @@ public class Solution {
 
     
     public int[] intersect(int[] nums1, int[] nums2) {
-        // Create a HashMap to store the count of each number in nums1
+        
         HashMap<Integer, Integer> map = new HashMap<>();
         // Create a list to store the intersection result
         List<Integer> result = new ArrayList<>();
