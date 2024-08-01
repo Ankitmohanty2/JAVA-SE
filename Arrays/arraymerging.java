@@ -17,7 +17,7 @@ public class MergeArrays {
             pos++;
         }
         
-        // Print the merged array
+       
         for (int element : mergedArray) {
             System.out.print(element + " ");
         }
