@@ -1,6 +1,6 @@
 public class MultiDimensionalArrayExample {
     public static void main(String[] args) {
-        // Initialize the 2D array with values
+       
         int[][] matrix = {
             {1, 2, 3},
             {4, 5, 6},
