@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Solution {
-    // Method to find two indices such that their values add up to the target
+   
     public int[] twoSum(int[] nums, int target) {
         // Create a hash map to store the value and its corresponding index
         Map<Integer, Integer> hashmap = new HashMap<>();
