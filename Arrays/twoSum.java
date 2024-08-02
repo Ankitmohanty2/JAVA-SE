@@ -18,7 +18,7 @@ public class Solution {
             
           
             if (hashmap.containsKey(complement) && hashmap.get(complement) != i) {
-                // Return the indices of the current number and its complement
+                
                 return new int[] { i, hashmap.get(complement) };
             }
         }
