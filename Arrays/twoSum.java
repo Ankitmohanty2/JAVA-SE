@@ -35,7 +35,7 @@ public class Solution {
         
         Solution solution = new Solution();
         
-        // Call the twoSum method and capture the result
+        
         int[] result = solution.twoSum(nums, target);
         
         // Print the output
