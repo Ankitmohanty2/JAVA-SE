@@ -4,7 +4,7 @@ import java.util.Map;
 public class Solution {
    
     public int[] twoSum(int[] nums, int target) {
-        // Create a hash map to store the value and its corresponding index
+       
         Map<Integer, Integer> hashmap = new HashMap<>();
         
         // First pass: populate the hash map with value-index pairs
