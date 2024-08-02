@@ -23,7 +23,7 @@ public class Solution {
             }
         }
         
-        // If no such pair is found, throw an exception
+        
         throw new IllegalArgumentException("No two sum solution");
     }
     
