@@ -32,7 +32,7 @@ public class Solution {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
         
-        // Create an instance of the Solution class
+        
         Solution solution = new Solution();
         
         // Call the twoSum method and capture the result
