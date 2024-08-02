@@ -7,7 +7,7 @@ public class Solution {
        
         Map<Integer, Integer> hashmap = new HashMap<>();
         
-        // First pass: populate the hash map with value-index pairs
+       
         for (int i = 0; i < nums.length; i++) {
             hashmap.put(nums[i], i);
         }
