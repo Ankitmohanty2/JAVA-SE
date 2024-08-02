@@ -16,7 +16,7 @@ public class Solution {
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
             
-            // If complement is found in the map and is not the same element
+          
             if (hashmap.containsKey(complement) && hashmap.get(complement) != i) {
                 // Return the indices of the current number and its complement
                 return new int[] { i, hashmap.get(complement) };
