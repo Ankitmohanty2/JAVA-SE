@@ -38,7 +38,7 @@ public class Solution {
         
         int[] result = solution.twoSum(nums, target);
         
-        // Print the output
+      
         System.out.println("Indices: " + result[0] + ", " + result[1]);
     }
 }
