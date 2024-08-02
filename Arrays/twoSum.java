@@ -12,7 +12,7 @@ public class Solution {
             hashmap.put(nums[i], i);
         }
         
-        // Second pass: check for each number if its complement (target - nums[i]) exists in the map
+     
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
             
