@@ -6,7 +6,7 @@ public class ArrayRotation {
         // Handle case when k is greater than n
         k = k % n;
         
-        // Reverse the whole array
+     
         reverse(arr, 0, n - 1);
         // Reverse the first part (0 to k-1)
         reverse(arr, 0, k - 1);
