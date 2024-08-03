@@ -1,6 +1,6 @@
 public class ArrayRotation {
 
-    // Function to rotate the array to the right by k positions
+  
     public static void rotate(int[] arr, int k) {
         int n = arr.length;
         // Handle case when k is greater than n
