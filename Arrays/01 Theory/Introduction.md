@@ -12,3 +12,4 @@
   - Idealy we want every item that our programm is accessing to be there in the cache.
   - When processor access an item, they prefetch and store nearby elements in cache according to cache limit.
   - Caching doen't work with other data structures like linked list.
+
