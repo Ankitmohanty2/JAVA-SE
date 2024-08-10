@@ -1,8 +1,5 @@
-/**
- * Data-Structures-In-Java
- * AssociativeArray.java
- */
-package com.deepak.data.structures.Arrays;
+
+package com.ankit.data.structures.Arrays;
 
 /**
  * Associative Arrays in Java :
@@ -12,7 +9,7 @@ package com.deepak.data.structures.Arrays;
  * can be achieved through HashMap or HashTable. 
  * Below is the replica of HashMap just names as associative arrays.
  * 
- * @author Deepak
+ * @author Ankit
  */
 public class AssociativeArray<K, V> {
 
