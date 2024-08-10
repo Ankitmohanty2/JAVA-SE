@@ -1,8 +1,5 @@
-/**
- * Data-Structures-In-Java
- * Pair.java
- 
-package com.deepak.data.structures.Arrays;
+
+package com.ankit.data.structures.Arrays;
 
 /**
  * Pair class 
