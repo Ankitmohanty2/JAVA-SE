@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class One_Dimension_Array {
     public static void main(String[] args) {
-        // Create an Array
+        // Create The Array
         int[] arr;
         arr = new int[5];
         arr[0] = 1;
